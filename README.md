@@ -1,4 +1,4 @@
 # dummyrepo
 This is a dummy repo.
 <br>
-Author - Aniruddha Sengupta
+Author - Aniruddha Sengupta (The Legend)
